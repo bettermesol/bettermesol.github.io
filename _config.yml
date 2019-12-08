@@ -24,7 +24,7 @@ version: 1.0.0
 # About/contact
 author:
   name: Mesol Yoon
-  description: 더 <strong>나<strong>은 <strong>나<strong>를 위하여 <strong>나<strong>아가는 중
+  description: 더 <strong>나</strong>은 <strong>나</strong>를 위하여 <strong>나</strong>아가는 중
   gravatar: '/public/logo.png' # 0a638fc7996869b1b67fb90ccf77dcfe  md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/mesol-yoon-468346129/
