@@ -7,12 +7,11 @@
   <div class="sidebar-item">
     <div class="sidebar-personal-info">
       <div class="sidebar-personal-info-section">
-        <a href="https://gravatar.com/{{ site.author.gravatar }}">
-          <img src="https://www.gravatar.com/avatar/{{ site.author.gravatar }}?s=350" title="View on Gravatar" alt="View on Gravatar" />
-        </a>
-      </div>
-      <div class="sidebar-personal-info-section">
+        <img src="{{ site.baseurl }}{{ site.avartar.image }}" />
+        <p>{{ site.author.name }}</p>
         <p>{{ site.author.description }}</p>
+        <p>{{ site.author.bio }}</p>
+        <p>{{ site.author.location }}</p>
       </div>
       {% if site.author.contact %}
       {% assign len = site.author.contact | size %}
