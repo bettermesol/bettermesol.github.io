@@ -1,6 +1,6 @@
 # BetterMesol
-안녕하세요, 어제보다 더 나은 저를 위하여 노력하는 윤메솔입니다.
-E-mail : mysky0313@gmail.com
+안녕하세요, 어제보다 더 나은 저를 위하여 노력하는 윤메솔입니다.  
+E-mail : mysky0313@gmail.com  
 blog : https://bettermesol.github.io
 
 
