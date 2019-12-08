@@ -24,8 +24,11 @@ version: 1.0.0
 # About/contact
 author:
   name: Mesol Yoon
-  description: 더 <strong>나</strong>은 <strong>나</strong>를 위하여 <strong>나</strong>아가는 중
-  gravatar: '/public/logo.png' # md5 hash of your email address
+  description: 더 <strong>나</strong>은 <strong>나</strong>를 위하여 <strong>나</strong>아가는 중 #"TO BECOME A BETTER PERSON"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "becoming better, even at this moment"
+  location         : "Seoul, Korea"
+  gravatar: # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/mesol-yoon-468346129/
     github:    https://github.com/bettermesol
