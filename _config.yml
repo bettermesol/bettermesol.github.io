@@ -1,8 +1,8 @@
 # Site Info
-title: ratsgo's blog
-tagline: 'for textmining'
-description: 'blog for textmining'
-url: http://ratsgo.github.io
+title: BETTER ME
+tagline: '더 나은 나를 위한 노력'
+description: "TO BECOME A BETTER PERSON"
+url: http://bettermesol.github.io
 logo: '/public/logo.png'
 encoding: utf-8
 
@@ -23,16 +23,16 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: ratsgo
-  description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
-  gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
+  name: Mesol Yoon
+  description: 더 <strong>나<strong>은 <strong>나<strong>를 위하여 <strong>나<strong>아가는 중
+  gravatar: '/public/logo.png' # 0a638fc7996869b1b67fb90ccf77dcfe  md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/gichanglee/
-    github:    https://github.com/ratsgo
-    facebook:  https://www.facebook.com/gichanglee.84
+    linkedin:  https://www.linkedin.com/in/mesol-yoon-468346129/
+    github:    https://github.com/bettermesol
+    #facebook:  <hide>
     #twitter:  <hide>
     #weibo:    <hide>
-    email:     mailto:gichang_lee@korea.ac.kr
+    email:     mailto:mysky0313@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -50,11 +50,11 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: https://ratsgo.github.io/public/img/picture.JPG
-  caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
+  image: https://bettermesol.github.io/public/img/picture.JPG
+  caption: # caption, if any
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-93172815-1' # leave blank if you don't want google analytics
-disqus_short_name: 'ratsgo-github-io' # leave blank if you don't want disqus
+google_analytics_token: #'UA-12345678-9' # leave blank if you don't want google analytics
+disqus_short_name: #'abc-github-io' # leave blank if you don't want disqus
 
