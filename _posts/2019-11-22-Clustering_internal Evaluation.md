@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised Clustering Evaluation (식이 안 보이는건 업뎃 예정ㅜ)"
+title: "Unsupervised Clustering Evaluation"
 excerpt: "label이 없는 데이터 군집의 내부평가"
 last_modified_at: 2019-11-22T16:20:02-05:00
 categories:
