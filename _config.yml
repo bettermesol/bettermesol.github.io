@@ -26,7 +26,11 @@ author:
   name: Mesol Yoon
   description: 더 <strong>나</strong>은 <strong>나</strong>를 위하여 <strong>나</strong>아가는 중 #"TO BECOME A BETTER PERSON"
   #gravatar: # md5 hash of your email address
-  contact:
+  bio: "becoming better, even at this moment"
+  location: "Seoul, Korea"
+  avatar:
+    image: https://bettermesol.github.io/public/img/picture.JPG
+  contact: 
     linkedin:  https://www.linkedin.com/in/mesol-yoon-468346129/
     github:    https://github.com/bettermesol
     #facebook:  <hide>
