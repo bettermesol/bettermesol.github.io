@@ -3,8 +3,8 @@ title: "농경지 지대이론"
 excerpt: "많은 걸 만들거나, 나만의 것을 만들거나, 아님 졸라 쉬운 사람이어야 한다."
 last_modified_at: 2019-10-30T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, theory]
+  - urban
+tags: [urban, notes, theory]
 
 # table of contents
 toc : # true
