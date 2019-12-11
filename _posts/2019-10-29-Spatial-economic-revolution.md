@@ -3,8 +3,8 @@ title: "경제로 보는 도시구조의 변화"
 excerpt: "경제조직 또한 우리가 사는 공간을 변화시켰다."
 last_modified_at: 2019-10-29T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, theory]
+  - urban
+tags: [urban, notes, theory]
 
 # table of contents
 toc : # true
