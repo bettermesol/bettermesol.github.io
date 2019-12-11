@@ -3,8 +3,8 @@ title: "도시내부구조"
 excerpt: "지가와 접근도에 따른 도시 기능의 배열"
 last_modified_at: 2019-11-01T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, theory]
+  - urban
+tags: [urban, notes, theory]
 
 # table of contents
 toc : # true
@@ -18,6 +18,7 @@ comments: #
 ### 도시내부구조
 
 - 도시내부구조 : 여러 기능이 질서에 따라 배열되어 지역별로 분화되는 구조
+
 - 지역 분화 요인 
   - 접근성 
   - 지대 (rent) : 토지 이용에서 얻어지는 대가
