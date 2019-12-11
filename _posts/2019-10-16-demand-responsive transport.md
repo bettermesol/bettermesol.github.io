@@ -3,8 +3,8 @@ title: "DRT (demand-responsive transport)"
 excerpt: "수요응답형 교통체계"
 last_modified_at: 2019-10-16T16:20:02-05:00
 categories:
-  - note
-tags: [mobility]
+  - mobility
+tags: [mobility, DRT, notes]
 
 toc : # true
 toc_label : # "toc_label"
