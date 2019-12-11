@@ -3,7 +3,7 @@ title: "[ML/논문/시계열] 시계열 분석을 위한 Facebook prophet"
 excerpt: "prophet, 페이스북의 시계열 분석 라이브러리"
 last_modified_at: 2019-09-09T16:20:02-05:00
 categories:
-  - devlog
+  - time series
 tags: [time series, paper, ml, python]
 
 toc : # true
