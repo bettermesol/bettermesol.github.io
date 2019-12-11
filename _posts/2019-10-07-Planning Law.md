@@ -3,8 +3,8 @@ title: "국토계획법 개념정리 (작성 중)"
 excerpt: "도시계획+지구단위계획+건축설계"
 last_modified_at: 2019-10-07T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, theory]
+  - urban
+tags: [urban, theory, notes, policy]
 
 # table of contents
 toc : # true
