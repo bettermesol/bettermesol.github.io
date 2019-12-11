@@ -3,8 +3,8 @@ title: "가로설계 관련 법률"
 excerpt: "보도, 차도, 자전거도로에 관한 기본법, 시행령, 시행규칙"
 last_modified_at: 2019-10-21T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, policy, mobility]
+  - urban
+tags: [urban, policy, notes, mobility]
 
 # table of contents
 toc : # true
