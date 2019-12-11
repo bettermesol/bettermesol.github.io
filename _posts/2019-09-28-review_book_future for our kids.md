@@ -1,5 +1,5 @@
 ---
-title: "내 아이가 만날 미래"
+title: "내 아이가 만날 미래 by 정지훈"
 excerpt: "미래라고 말하지만, 흠 글쎄"
 last_modified_at: 2019-09-22T16:20:02-05:00
 categories:
