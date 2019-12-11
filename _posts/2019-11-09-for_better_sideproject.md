@@ -3,8 +3,8 @@ title: "사이드 프로젝트 잘하는 법"
 excerpt: "책을 쓰며 몸으로 배운 것"
 last_modified_at: 2019-11-09T16:20:02-05:00
 categories:
-  - notes
-tags: [working]
+  - diary
+tags: [working, side project]
 
 toc : # true
 toc_label : # "toc_label"
