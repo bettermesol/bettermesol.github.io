@@ -3,7 +3,7 @@ title: "좌표 시스템"
 excerpt: "공간 데이터 분석을 위한 좌표 시스템 및 파일 형식"
 last_modified_at: 2019-11-12T16:20:02-05:00
 categories:
-  - notes
+  - spatial analysis
 tags: [spatial, urban, data]
 
 # table of contents
