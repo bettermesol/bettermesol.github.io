@@ -3,8 +3,8 @@ title: "주간인구지수"
 excerpt: "주간인구vs상주인구 & 주간인구지수"
 last_modified_at: 2019-09-08T16:20:02-05:00
 categories:
-  - notes
-tags: [population]
+  - urban
+tags: [population, urban, notes]
 
 # table of contents
 toc : # true
