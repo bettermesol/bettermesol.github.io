@@ -1,10 +1,10 @@
 ---
-title: "[논문] 연구설계, 방법론(작성 중)"
+title: "연구설계 방법론"
 excerpt: "논문 쓰는 법 후려치기"
 last_modified_at: 2019-09-24T16:20:02-05:00
 categories:
-  - research
-tags: [research]
+  - urban
+tags: [research, paper, urban]
 
 toc : # true
 toc_label : # "toc_label"
