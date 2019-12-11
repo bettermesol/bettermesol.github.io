@@ -3,8 +3,8 @@ title: "기술의 발전과 공간의 변화"
 excerpt: "산업혁명이 가장 변화시킨 것은 우리가 사는 공간이다."
 last_modified_at: 2019-10-11T16:20:02-05:00
 categories:
-  - notes
-tags: [urban]
+  - urban
+tags: [urban, note, tech]
 
 # table of contents
 toc : # true
