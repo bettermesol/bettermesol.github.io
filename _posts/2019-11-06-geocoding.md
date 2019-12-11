@@ -3,8 +3,8 @@ title: "지오코딩 / 역지오코딩"
 excerpt: "주소 좌표 변환을 위한 방법"
 last_modified_at: 2019-11-06T16:20:02-05:00
 categories:
-  - notes
-tags: [spatial, urban, data]
+  - spatial analysis
+tags: [spatial, urban, data, geocoding]
 
 # table of contents
 toc : # true
