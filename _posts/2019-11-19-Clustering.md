@@ -3,8 +3,8 @@ title: "Clustering"
 excerpt: "clustering의 이해와, Hierarchical vs Partitional의 차이 비교"
 last_modified_at: 2019-11-19T16:20:02-05:00
 categories:
-  - MachineLearning
-tags: [ml, clustering]
+  - ML
+tags: [ML, clustering]
 
 # table of contents
 toc : # true
