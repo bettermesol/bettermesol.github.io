@@ -3,8 +3,8 @@ title: "도시 지대이론"
 excerpt: "위치, 접근성, 교통비, 지불의사가 결정하는 토지 가격"
 last_modified_at: 2019-10-31T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, theory]
+  - urban
+tags: [urban, notes, theory]
 
 # table of contents
 toc : # true
