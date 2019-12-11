@@ -3,8 +3,8 @@ title: "Hierarchical Clustering"
 excerpt: "scipy.cluster.hierarchy.linkage"
 last_modified_at: 2019-11-21T16:20:02-05:00
 categories:
-  - MachineLearning
-tags: [ml, clustering]
+  - ML
+tags: [ML, clustering]
 
 # table of contents
 toc : # true
