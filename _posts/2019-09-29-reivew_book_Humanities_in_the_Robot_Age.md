@@ -1,5 +1,5 @@
 ---
-title: "로봇시대에 불시착한 문과형 인간"
+title: "로봇시대에 불시착한 문과형 인간 by 다카하시 도루"
 excerpt: "책 속의 한 줄"
 last_modified_at: 2019-09-29T16:20:02-05:00
 categories:
