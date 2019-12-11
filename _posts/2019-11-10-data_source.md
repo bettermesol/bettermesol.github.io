@@ -3,8 +3,8 @@ title: "공간 데이터 소스"
 excerpt: "공공부터 민간까지 다양한 데이터 제공 웹사이트"
 last_modified_at: 2019-11-10T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, data]
+  - spatial analysis
+tags: [urban, data, spatial analysis]
 
 # table of contents
 toc : # true
