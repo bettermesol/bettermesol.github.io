@@ -3,8 +3,8 @@ title: "도로 개념정리"
 excerpt: "도로의 정의, 위계"
 last_modified_at: 2019-09-12T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, policy]
+  - urban
+tags: [urban, road system, mobility, policy]
 
 # table of contents
 toc : # true
