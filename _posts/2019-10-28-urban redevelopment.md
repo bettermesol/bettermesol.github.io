@@ -3,8 +3,8 @@ title: "도시재개발 "
 excerpt: "도시재개발의 의미와 시행방법"
 last_modified_at: 2019-10-28T16:20:02-05:00
 categories:
-  - notes
-tags: [urban, theory]
+  - urban
+tags: [urban, notes, theory]
 
 # table of contents
 toc : # true
