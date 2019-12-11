@@ -3,8 +3,8 @@ title: "Unsupervised Clustering Evaluation"
 excerpt: "label이 없는 데이터 군집의 내부평가"
 last_modified_at: 2019-11-22T16:20:02-05:00
 categories:
-  - MachineLearning
-tags: [ml, clustering]
+  - ML
+tags: [ML, clustering]
 
 # table of contents
 toc : # true
