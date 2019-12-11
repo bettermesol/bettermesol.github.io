@@ -1,5 +1,5 @@
 ---
-title: "출퇴근의 역사"
+title: "출퇴근의 역사 by 이언 게이틀리"
 excerpt: "교통기술 발전의 역사로 읽는 공간, 사고방식, 생활패턴의 변화"
 last_modified_at: 2019-09-22T16:20:02-05:00
 categories:
