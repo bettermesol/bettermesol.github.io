@@ -4,7 +4,7 @@ excerpt: "Demand responsive transit와 express transit을 위한 두 가지 모�
 last_modified_at: 2019-11-20T16:20:02-05:00
 categories:
   - Mobility
-tags: [urban, note, mobility]
+tags: [urban, notes, mobility]
 
 # table of contents
 toc : # true
