@@ -3,8 +3,8 @@ title: "K-means Clustering"
 excerpt: "sklearn.cluster.KMeans"
 last_modified_at: 2019-11-20T16:20:02-05:00
 categories:
-  - MachineLearning
-tags: [ml, clustering]
+  - ML
+tags: [ML, clustering]
 
 # table of contents
 toc : # true
