@@ -3,8 +3,8 @@ title: "크롤링, 스크래핑, 파싱의 차이"
 excerpt: "크롤링, 스크래핑, 파싱의 차이를 후려쳐서 설명해보자"
 last_modified_at: 2019-09-17T16:20:02-05:00
 categories:
-  - devlog
-tags: [data]
+  - Data
+tags: [crawling, scraping, parsing, data]
 
 toc : # true
 toc_label : # "toc_label"
