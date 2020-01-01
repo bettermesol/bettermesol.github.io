@@ -27,7 +27,7 @@ comments: #
 
   1. 서울시 공공임대주택의 일반 정보 크롤링 (https://www.myhome.go.kr/hws/portal/sch/selectRentalHouseInfoListView.do)
 
-     ![crawling_ajax](C:\Users\Jaesik\Desktop\깃헙\crawling_ajax.JPG)
+     ![crawling_ajax]((/assets/images//2019-12-11-crawling_ajax.JPG)
 
   2. request URL : https://www.myhome.go.kr/hws/portal/sch/selectRentalHouseInfoList.do?pageIndex=1&searchTyId=&brtcCode=11&signguCode=&emdCode=&hsmpNm=&suplyTy=&houseTy=&suplyPrvuseAr=&bassMtRntchrg=
 
