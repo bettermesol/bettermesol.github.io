@@ -48,6 +48,8 @@ comments: #
      ### 필요한 데이터 위치에 따라서 추출
      year = page.findAll('tr')[3].findAll('td')[0].text 
      print(year)
+     
+     ### 그러면 "2015-10-06"
      ````
 
      
