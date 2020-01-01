@@ -25,11 +25,11 @@ comments: #
 
   2. "준공년도"의 위치
 
-     ![crawling_html](C:\Users\Jaesik\Desktop\깃헙\crawling_html.JPG)
+     ![crawling_html](/asset/images//2019-12-12-crawling_html.JPG)
 
-     3. 필요하다면 strip, replace등을 통해서 불필요한 공백을 제거
+  3. 필요하다면 strip, replace등을 통해서 불필요한 공백을 제거
 
-  3. 코드
+  4. 코드
 
      ````python
      from urllib.request import urlopen
