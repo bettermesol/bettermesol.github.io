@@ -1,4 +1,16 @@
+---
+title: "구독과 좋아요의 경제학 by 티엔 추오"
+excerpt: "정의없이 약부터 파는 구독경제"
+last_modified_at: 2020-01-04T16:20:02-05:00
+categories:
+  - review
+tags: [book]
 
+toc : # true
+toc_label : # "toc_label"
+toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
+comments: #
+---
 
 
 [책 후기]
