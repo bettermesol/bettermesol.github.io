@@ -53,7 +53,7 @@ print('length : ' + str(fileleng) + ' lines')
 print('size : ' + str(filesize//1000) + ' KB')
 pd.DataFrame([sub.split(",") for sub in lines])
 ```
-![ouput](/assets/images/2020-01-07-check csv shape.JPG)
+![ouput](/assets/images//2020-01-07-check csv shape.JPG)
 
 
 
