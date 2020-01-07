@@ -27,8 +27,8 @@ import pandas as pd
 
 
 ```python
-path = r'C:\Users\Jaesik\Desktop\2019-02 GSES\논문투고\공공임대주택 이동성\data\\'
-file = '1. 가구통행실태조사_전국_목적통행기준정렬.txt'
+path = r'C:\Users\......\data\\'
+file = '.....txt'
 encoder = "CP949"
 ```
 
@@ -54,6 +54,7 @@ print('size : ' + str(filesize//1000) + ' KB')
 pd.DataFrame([sub.split(",") for sub in lines])
 ```
 
+```html
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -215,11 +216,12 @@ pd.DataFrame([sub.split(",") for sub in lines])
   </tbody>
 </table>
 <p>5 rows × 97 columns</p>
-
+```
 
 
 ### 단계별 확인
-
+csv 파일을 open 할 때, open option에 rb, r 등이 있다. 
+default값은 r이지만, 대부분의 예제는 rb로 나오는데 둘 사이에는 다음과 같은 차이가 있다.
 [바이너리와 텍스트의 차이](https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221353023593&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 
