@@ -3,7 +3,7 @@ title: "CSV 파일 형태 파악"
 excerpt: "필요한 부분만 선택적으로 불러들이기 위하여"
 last_modified_at: 2020-01-07T16:20:02-05:00
 categories:
-  - data
+  - Data
 tags: [data, read_csv, csv]
 
 toc : # true
