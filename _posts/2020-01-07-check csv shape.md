@@ -57,6 +57,7 @@ pd.DataFrame([sub.split(",") for sub in lines])
 
 
 
+
 ## 단계별 확인
 항목별 확인을 통하여 찬찬히 csv shape check하고 싶다면 이렇게!  
 
