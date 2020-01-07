@@ -61,9 +61,8 @@ pd.DataFrame([sub.split(",") for sub in lines])
 ## 단계별 확인
 항목별 확인을 통하여 찬찬히 csv shape check하고 싶다면 이렇게!  
 
-csv 파일을 open 할 때, open option에 rb, r 등이 있다. 
-default값은 r이지만, 대부분의 예제는 rb로 나오는데 둘 사이에는 다음과 같은 차이가 있다.
-[바이너리와 텍스트의 차이](https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221353023593&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+csv 파일을 바로 열어서 활용하기 위해서는 [입출력 및 접근 함수](https://simplesolace.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-python-%ED%8C%8C%EC%9D%BC)를 알아야 한다.  
+또한 csv 파일을 open 할 때, open option에 rb, r 등이 있다. default값은 r이지만, 대부분의 예제는 rb로 나오는데 둘 사이에는 [이런](https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221353023593&proxyReferer=https%3A%2F%2Fwww.google.com%2F) 차이가 있다.
 
 
 ```python
