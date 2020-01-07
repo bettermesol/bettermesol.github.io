@@ -14,7 +14,7 @@ comments: #
 
 
 
-# CSV 파일 형태 파악
+## CSV 파일 형태 파악
 
 바로 read_csv를 하기에 파일이 너무 무거울 때가 있다. 
 그런 때는 csv 파일의 형태를 먼저 확인한 후, 필요한 부분만 선택적으로 read_csv 하는게 좋다.
@@ -27,15 +27,15 @@ import pandas as pd
 
 
 ```python
-path = r'C:\Users\......\data\\'
-file = '.....txt'
+path = r'C:\Users\......\data\\' #위치입력
+file = '.....txt' #이름입력
 encoder = "CP949"
 ```
 
 
 
-### [요약]
-
+## [요약]  
+내용 고민 없이 한 번에 csv shape check하고 싶다면 이렇게!
 
 ```python
 headsize = 5
@@ -53,11 +53,13 @@ print('length : ' + str(fileleng) + ' lines')
 print('size : ' + str(filesize//1000) + ' KB')
 pd.DataFrame([sub.split(",") for sub in lines])
 ```
-![ouput](/assets/images//2020-01-07-check csv shape.JPG)
+![output](/assets/images//2020-01-07-check csv shape.JPG)
 
 
 
-### 단계별 확인
+## 단계별 확인
+항목별 확인을 통하여 찬찬히 csv shape check하고 싶다면 이렇게!  
+
 csv 파일을 open 할 때, open option에 rb, r 등이 있다. 
 default값은 r이지만, 대부분의 예제는 rb로 나오는데 둘 사이에는 다음과 같은 차이가 있다.
 [바이너리와 텍스트의 차이](https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221353023593&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
