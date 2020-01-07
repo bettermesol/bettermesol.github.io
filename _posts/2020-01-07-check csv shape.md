@@ -34,7 +34,7 @@ encoder = "CP949"
 
 
 
-## [요약]  
+## 요약  
 내용 고민 없이 한 번에 csv shape check하고 싶다면 이렇게!
 
 ```python
