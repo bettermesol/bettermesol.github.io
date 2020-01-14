@@ -21,6 +21,7 @@ comments: #
 - bias의 의미 : 마이크를 켜고 끄는 거랑 
 
 ![neural net component](https://upload.wikimedia.org/wikipedia/commons/b/b6/Artificial_neural_network.png)
+![perceptron](https://www.researchgate.net/profile/Lipika_Deka/publication/259846602/figure/fig5/AS:267611606876183@1440814987433/The-perceptron-model-used-for-the-accident-mapping-application.png)
 ![bias variance trade off](https://djsaunde.files.wordpress.com/2017/07/bias-variance-tradeoff.png)
 
 용어
