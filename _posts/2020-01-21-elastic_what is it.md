@@ -20,7 +20,7 @@ comments: #
 
 ### 엘라스틱 스택 = ELK 스택
 
-- 엘라스틱의 주요 제품 삼인방![ELK stack](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/11/2-2.png)
+- 엘라스틱의 주요 제품 삼인방![ELK stack](https://www.guru99.com/images/tensorflow/082918_1504_ELKStackTut2.png)
 - Logstash : 서버측 데이터 처리 파이프라인 (데이터 수집, 변환)
 - elasticsearch : 검색 및 분석엔진 (정형, 비정형, 위치, 메트릭 정보 등을 검색 및 결합)
 - Kibana : 시각화
