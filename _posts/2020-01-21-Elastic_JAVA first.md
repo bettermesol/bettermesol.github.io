@@ -6,6 +6,16 @@ categories:
   - Elastic
 tags: [JAVA]
 
+# table of contents
+toc : # true
+toc_label : # "toc_label"
+toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
+comments: # 
+---
+
+
+
+
 JAVA를 여러 버전 설치하면서  환경설정이 꼬여 있었는데 싹 지우고 다시 설치했다.
 
 그 기념으로 기억해두려고 쓰는 JAVA 설치 및 환경설정법
