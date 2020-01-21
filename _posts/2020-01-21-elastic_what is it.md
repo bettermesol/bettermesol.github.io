@@ -37,7 +37,7 @@ comments: #
 
 
 
-###  "텍스트 데이터가 아닌데도 RDBMS 두고 굳이 elasticsearch를 왜 쓸까?"에 대한 개발자 친구의 답변
+###  "elasticsearch를 왜 쓸까?"에 대한 개발자 친구의 답변
 
 ![crawling_html](/assets/images//2020-01-21-elastic_what is it.JPG)
 
