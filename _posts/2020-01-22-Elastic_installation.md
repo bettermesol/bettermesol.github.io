@@ -69,8 +69,8 @@ Beats는 흔히 말하는 ELK stack에는 포함되지 않으며, 데이터 타�
 5. 설치 확인 : 
    크롬 브라우저의 kibana에서 `Metricbeat System`이 들어간 Dashboard와 연동여부 확인, 미리 설정된 다양한 정보를 볼 수 있다.
    한눈에 보이는건 Dashboard 중 `[Metricbeat System] Overview ECS`
-   이렇게 하면 metricbeat 데이터가 바로 elasticsearch로 보내짐
-
+   이렇게 하면 metricbeat 데이터가 바로 elasticsearch로 보내짐  
+ (참고 : https://www.elastic.co/kr/blog/get-system-logs-and-metrics-into-elasticsearch-with-beats-system-modules)
 
 
 ### Logstach 설치
