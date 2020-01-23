@@ -1,7 +1,7 @@
 ---
 title: "샘플 데이터로 엿보는 kibana의 주요 기능"
 excerpt: "엘라스틱을 위한 아직도 첫걸음"
-last_modified_at: 2020-01-21T18:20:02-05:00
+last_modified_at: 2020-01-22T10:20:02-05:00
 categories:
   - Elastic
 tags: [Elastic, Elasticsearch, Elastic stack, ELK stack, data, DB]
