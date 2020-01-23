@@ -1,7 +1,7 @@
 ---
 title: "엘라스틱 스택 설치"
 excerpt: "엘라스틱을 위한 아직도 첫걸음"
-last_modified_at: 2020-01-22T16:20:02-05:00
+last_modified_at: 2020-01-21T20:20:02-05:00
 categories:
   - Elastic
 tags: [Elastic, Elasticsearch, Elastic stack, ELK stack, data, DB]
