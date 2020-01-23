@@ -78,12 +78,12 @@ Beats는 흔히 말하는 ELK stack에는 포함되지 않으며, 데이터 타�
        stdout { codec => rubydebug }
      }
      ```
-   - 저장 위치 : 3의 폴더 아래 (ex. `C:\elastic\logstash-7.5.1`)
+   - 저장 위치 : 3의 폴더 아래 config 폴더 (ex. `C:\elastic\logstash-7.5.1\config`)
 5. 명령 프롬프트 관리자 권한으로 실행
 6. 아래와 같이 해당 폴더 찾아가서 실행
    ```
    C:\WINDOWS\system32>cd c:\elastic\logstash-7.5.1
-   C:\elastic\logstash-7.5.1>bin\logstash -f logstash-simple.conf
+   C:\elastic\logstash-7.5.1>bin\logstash -f config\logstash-simple.conf
    ```
 
    
