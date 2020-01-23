@@ -1,5 +1,5 @@
 ---
-title: "엘라스틱 스텍 설치"
+title: "엘라스틱 스택 설치"
 excerpt: "엘라스틱을 위한 아직도 첫걸음"
 last_modified_at: 2020-01-22T16:20:02-05:00
 categories:
@@ -27,43 +27,6 @@ comments: #
 
    
 
-###  Kibana 설치
-1. (C 혹은 D 드라이브 하위에 `elastic`  폴더 생성)
-2. 설치파일 다운로드 : www.elastic.co/kr/downloads/kibana
-3. 2의 다운로드 파일을 1의 폴더에 압축 풀기
-4. 명령 프롬프트 관리자 권한으로 실행
-5. 아래와 같이 해당 폴더 찾아가서 `bin\kibana.bat`실행
-   ```
-   C:\WINDOWS\system32>cd c:\elastic\kibana-7.5.1
-   C:\elastic\kibana-7.5.1>bin\kibana.bat
-   ```
-5. 설치 확인 : 크롬 브라우저에 `http://localhost:5601`을 입력해서 로딩 확인
-
-
-
-### Beats 설치
-Beats는 흔히 말하는 ELK stack에는 포함되지 않으며, 데이터 타입에 따라서 다양한 beat가 있다. 
-그러니 반드시 설치할 필요는 없다.
-하지만 난 샘플로 시스템 모니터링을 하려고 하니 metrixbeat를 설치!
-
-1. (C 혹은 D 드라이브 하위에 `elastic`  폴더 생성)
-2. 설치파일 다운로드 : www.elastic.co/kr/downloads/beats/metricbeat
-3. 2의 다운로드 파일을 1의 폴더에 압축 풀기
-4. 명령 프롬프트 관리자 권한으로 실행
-5. 아래와 같이 해당 폴더 찾아가서 `setup` 실행
-   ```
-   C:\WINDOWS\system32>cd c:\elastic\metricbeat-7.5.1
-   C:\elastic\metricbeat-7.5.1>.\install-service-metricbeat.ps1
-   C:\elastic\metricbeat-7.5.1>.\metricbeat.exe modules enable system
-   C:\elastic\metricbeat-7.5.1>metricbeat.exe setup -e
-   ```
-5. 설치 확인 : 
-   크롬 브라우저의 kibana에서 `Metricbeat System`이 들어간 Dashboard와 연동여부 확인, 미리 설정된 다양한 정보를 볼 수 있다.
-   한눈에 보이는건 Dashboard 중 `[Metricbeat System] Overview ECS`
-   이렇게 하면 metricbeat 데이터가 바로 elasticsearch로 보내짐  
- (참고 : https://www.elastic.co/kr/blog/get-system-logs-and-metrics-into-elasticsearch-with-beats-system-modules)
-
-
 ### Logstach 설치
 1. (C 혹은 D 드라이브 하위에 `elastic`  폴더 생성)
 2. 설치파일 다운로드 : www.elastic.co/kr/downloads/beats/logstash
@@ -85,5 +48,19 @@ Beats는 흔히 말하는 ELK stack에는 포함되지 않으며, 데이터 타�
    C:\WINDOWS\system32>cd c:\elastic\logstash-7.5.1
    C:\elastic\logstash-7.5.1>bin\logstash -f config\logstash-simple.conf
    ```
+
+
+
+###  Kibana 설치
+1. (C 혹은 D 드라이브 하위에 `elastic`  폴더 생성)
+2. 설치파일 다운로드 : www.elastic.co/kr/downloads/kibana
+3. 2의 다운로드 파일을 1의 폴더에 압축 풀기
+4. 명령 프롬프트 관리자 권한으로 실행
+5. 아래와 같이 해당 폴더 찾아가서 `bin\kibana.bat`실행
+   ```
+   C:\WINDOWS\system32>cd c:\elastic\kibana-7.5.1
+   C:\elastic\kibana-7.5.1>bin\kibana.bat
+   ```
+5. 설치 확인 : 크롬 브라우저에 `http://localhost:5601`을 입력해서 로딩 확인
 
    
