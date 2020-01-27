@@ -64,3 +64,24 @@ comments: #
 5. 설치 확인 : 크롬 브라우저에 `http://localhost:5601`을 입력해서 로딩 확인
 
    
+
+### Tip for Warning 
+혹시 Logstash를 실행했을 때, "WARNING: An illegal reflective access operation has occurred"라는 메시지가 뜬다면,  
+그건 JRuby 관련 문제이고, `jvm.options' 파일에 아래의 옵션을 추가하여 해결할 수 있다.
+```
+--add-opens=java.base/java.lang=ALL-UNNAMED
+--add-opens=java.base/java.security=ALL-UNNAMED
+--add-opens=java.base/java.util=ALL-UNNAMED
+--add-opens=java.base/java.security.cert=ALL-UNNAMED
+--add-opens=java.base/java.util.zip=ALL-UNNAMED
+--add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+--add-opens=java.base/java.util.regex=ALL-UNNAMED
+--add-opens=java.base/java.net=ALL-UNNAMED
+--add-opens=java.base/java.io=ALL-UNNAMED
+--add-opens=java.base/java.lang=ALL-UNNAMED
+--add-opens=java.base/javax.crypto=ALL-UNNAMED
+--add-opens=java.management/sun.management=ALL-UNNAMED
+```
+![how to fix warning](/assets/images/2020-01-21-Elastic_installation.JPG)
+
+관련글 : https://www.elastic.co/guide/en/logstash/7.5/troubleshooting.html
