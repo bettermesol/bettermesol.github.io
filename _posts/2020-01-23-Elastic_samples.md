@@ -25,3 +25,22 @@ comments: #
 2. url로 제공하는 웹 csv 파일 > json > logstash >  elasticsearch > kibana https://www.elastic.co/kr/blog/what-are-you-breathing-analyzing-air-quality-data-with-elasticsearch-on-elastic-cloud-part-1
 3. 다운로드한 파일 가공 및 시각화 : https://www.elastic.co/kr/blog/seoul-metro-2014 or https://m.blog.naver.com/sky930425/221493939509
 
+
+## Elastic 관련 작성예정 글
+
+- [ ] csv로 load
+
+- [ ] machine learning anomaly detection
+  - [Machine Learning & Big Data Blog](https://www.bmc.com/blogs/categories/machine-learning-big-data/)
+  - https://www.bmc.com/blogs/elasticsearch-machine-learning/ + prelert
+  - https://www.elastic.co/kr/elasticon/conf/2017/sf/machine-learning-and-statistical-methods-for-time-series-analysis
+
+- [ ] query DSL (domain specific language)
+  - https://victorydntmd.tistory.com/313?category=742451 부터 이어지는 글들 모두
+
+- [ ] KSL  (Kibana Query Language )
+
+  - https://www.bmc.com/blogs/elasticsearch-lucene-kibana-query-language/
+  - https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html
+
+  
