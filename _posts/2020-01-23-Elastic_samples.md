@@ -26,8 +26,8 @@ comments: #
 3. 다운로드한 파일 가공 및 시각화 : https://www.elastic.co/kr/blog/seoul-metro-2014 or https://m.blog.naver.com/sky930425/221493939509
 
 
-## Elastic 관련 작성예정 글
 
+### Elastic 관련 작성예정 글
 - [ ] csv로 load
 
 - [ ] machine learning anomaly detection
@@ -39,7 +39,6 @@ comments: #
   - https://victorydntmd.tistory.com/313?category=742451 부터 이어지는 글들 모두
 
 - [ ] KSL  (Kibana Query Language )
-
   - https://www.bmc.com/blogs/elasticsearch-lucene-kibana-query-language/
   - https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html
 
