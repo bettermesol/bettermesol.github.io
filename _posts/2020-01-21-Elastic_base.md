@@ -53,6 +53,6 @@ comments: #
 | get template      | /_template/{template}                   | 변경 없음                        |
 | put template      | /_template/{template}                   | 변경 없음                        |
 
-- 참고자료 : http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/
-
+- 참고자료1 : http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/
+- 참고자료2 : https://www.elastic.co/guide/en/elasticsearch/reference/7.0/removal-of-types.html
 
