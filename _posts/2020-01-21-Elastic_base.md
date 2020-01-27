@@ -16,11 +16,13 @@ comments: #
 구글링에 의존해서 더듬더듬 elastic을 공부하는데, 구글링의 예제를 동일하게 적용해도 안되는 경우가 많다. 대부분 cURL 명령어를 사용하고, 또 Elastic 5~6버전을 쓰기 때문이다. 
 여기에 있는 Elastic 관련 글에서는 아래와 같은 기준으로 작성했음을 미리 밝힌다.
 
-- **cURL 대신 Dev Tools** : Elastic Dev Tools Console은 cURL과 매우 흡사한 명령어를 이해한다. 따라서 굳이 cURL을 설치하지 않고, Dev Tools에 맞춰서 명령어를 정리한다.
-- **Elastic 7.5.1** : 대부분의 한글 자료는 5~6version 정도를 기준으로 한다. 하지만 공식 홈페이지의 안내를 보면 7.0 전후로 큰 변화가 있었던 듯 하다. 따라서 본 내용은 2020년 초 기준 최신 버전인 7.5.1을 기준으로 한다.
+1. **cURL 대신 Dev Tools** 
+- Elastic Dev Tools Console은 cURL과 매우 흡사한 명령어를 이해한다. 따라서 굳이 cURL을 설치하지 않고, Dev Tools에 맞춰서 명령어를 정리한다.
+- `Dev Tools` > `Console`에서 자동완성, Copy as cURL, Auto indent 등의 기능을 이용할 수 있다.
+- 참고 : https://www.elastic.co/guide/en/kibana/current/console-kibana.html
 
+2. **Elastic 7.5.1** : 대부분의 한글 자료는 5~6version 정도를 기준으로 한다. 하지만 공식 홈페이지의 안내를 보면 7.0 전후로 큰 변화가 있었던 듯 하다. 따라서 본 내용은 2020년 초 기준 최신 버전인 7.5.1을 기준으로 한다.
 - 과거 버전으로 작성된 예시를 7.0 이후 버전으로 전환하는 방법은 아래 표를 참고하면 된다.
-
 | Search API       | 6.x 이전                          | 7.0 이후                   |
 | ---------------- | --------------------------------- | -------------------------- |
 | search           | /{index}/{type}/_search           | {index}/_search            |
@@ -51,6 +53,6 @@ comments: #
 | get template      | /_template/{template}                   | 변경 없음                        |
 | put template      | /_template/{template}                   | 변경 없음                        |
 
+- 참고자료 : http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/
 
 
-참고자료 : http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/
