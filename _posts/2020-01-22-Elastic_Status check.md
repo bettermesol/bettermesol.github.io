@@ -16,7 +16,7 @@ comments: #
 
 ### ES status 확인
 1. `Kibana` > `Management`  > `Elasticsearch`하위  `Index Management`에서  Health 색깔 확인
-   ![Index Health](/assets/images/2020-01-27-ES status_dev tools.JPG)
+   ![Index Health](/assets/images/2020-01-27-ES status_management.JPG)
 
 2. 크롬 브라우저 주소창에 입력
    - cluster status : http://localhost:9200/_cat/health?v
@@ -44,7 +44,7 @@ comments: #
 
 ### Status가 Yellow/Red일 때 해결법
 1. 상황
-   - ![Index Health](/assets/images/2020-01-27-ES status_management.JPG)
+   - ![Index Health](/assets/images/2020-01-27-ES status_dev tools.JPG)
    - cluster 이름 : kibana_sample_data_logs
    - status : yellow
    - 전체 node 수 : 1개
