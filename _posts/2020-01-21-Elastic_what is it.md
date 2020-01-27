@@ -44,5 +44,6 @@ comments: #
 
 
 ### Elasticsearch vs 관계형DBMS
-
-- 용어차이 ![용어의 차이](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/11/10-1.png)
+- 용어차이
+![용어의 차이1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile22.uf.tistory.com%2Fimage%2F998444375C98CC021F2221)
+![용어의 차이1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile27.uf.tistory.com%2Fimage%2F99A97A355C98D42D2E5196)
