@@ -50,7 +50,7 @@ OS 확인> License Agreement 체크 > exe 파일 다운로드
 
 4. 시스템 변수 추가 설정
    - `새로 만들기` >
-   - 변수 이름 : `CLASSPATH`, 변수 값 : `%JAVA_HOME%\lib`) > 
+   - 변수 이름 : `CLASSPATH`, 변수 값 : `%JAVA_HOME%\lib` > 
    - `확인`
 
 
