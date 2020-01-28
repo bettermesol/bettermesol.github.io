@@ -29,7 +29,7 @@ comments: #
 
 ### Logstach 설치
 1. (C 혹은 D 드라이브 하위에 `elastic`  폴더 생성)
-2. 설치파일 다운로드 : www.elastic.co/kr/downloads/beats/logstash
+2. 설치파일 다운로드 : www.elastic.co/kr/downloads/logstash
 3. 2의 다운로드 파일을 1의 폴더에 압축 풀기
 4. text파일로 config file 생성
    - 파일 이름 : `logstash-simple.conf`
