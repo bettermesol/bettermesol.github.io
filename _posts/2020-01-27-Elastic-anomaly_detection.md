@@ -40,7 +40,7 @@ comments: #
 
 
 ### Elastic에서 제공하는 시계열 이상징후 탐지법
-- **Machine Learning anomally detection **
+- **Machine Learning anomally detection**
   - 사용법 : `Maching Learning` 탭에서 job으로 지정
   - 사용예시 : KPI 값의 비정상적인 변동에 대한 알림
   - 문제점 : **어떤 알고리듬을 쓰는지 알 수가 없다**. 때로는 false anomaly alert가 뜰 수도 있는데, 원리를 설명 안해두면 이게 false인지 어떻게 알 수 있단 말인가.
