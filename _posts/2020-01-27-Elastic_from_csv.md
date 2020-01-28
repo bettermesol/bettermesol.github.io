@@ -38,6 +38,7 @@ csv파일을 바로 Logstash로 Elasticsearch로 불러들여서, Kibana로 시�
      C:\WINDOWS\system32>cd c:\elastic\elasticsearch-7.5.1
      C:\elastic\elasticsearch-7.5.1>bin\elasticsearch.bat
      ```
+     
 - Kibana 실행
 1. 명령 프롬프트 관리자 권한으로 실행
 2. 아래와 같이 해당 폴더 찾아가서 `bin\kibana.bat`실행  
@@ -79,7 +80,7 @@ csv파일을 바로 Logstash로 Elasticsearch로 불러들여서, Kibana로 시�
   ```
 
 - 우측 결과창 확인
-  ![결과 확인](https://github.com/bettermesol/bettermesol.github.io/blob/master/assets/images/2020-01-23-Elastic_from csv.JPG)
+  ![결과 확인](/assets/images/2020-01-23-Elastic_from csv.JPG)
 - index health가 yellow인 것이 걱정스럽다면 [이 글](https://bettermesol.github.io/elastic/2020/01/22/Elastic_Status-check/)을 참고
 
   
@@ -128,7 +129,7 @@ csv파일을 바로 Logstash로 Elasticsearch로 불러들여서, Kibana로 시�
          }
      }
      ```
-   - 저장 위치 : 3의 폴더 아래 config 폴더 (ex. `C:\elastic\logstash-7.5.1\config`)
+   - 저장 위치 : 3의 폴더 아래 config 폴더 (ex. `C:\elastic\logstash-7.5.1\config`)  
 
 2. 명령 프롬프트 관리자 권한으로 실행
 
@@ -141,7 +142,7 @@ csv파일을 바로 Logstash로 Elasticsearch로 불러들여서, Kibana로 시�
 
 
 ---
-**하 근데 왜 자꾸 doc.count 가 0일깜ㅇ;ㅐㅔㅑㅇㄻ너ㅑㅣㅇ랴ㅓㅇㄹㄴ먀;ㅓ**
+**하 근데 왜 자꾸 doc.count 가 0일까......@_@**
 https://www.bmc.com/blogs/elasticsearch-load-csv-logstash/
 ---
 
@@ -153,7 +154,7 @@ https://www.bmc.com/blogs/elasticsearch-load-csv-logstash/
 
 
 참고자료 : 
-[1]  임성현님 깃헙 : https://github.com/SunghyunLim/public_data/blob/master/elk_library/korea_library_2016.md
+[1] 임성현님 깃헙 : https://github.com/SunghyunLim/public_data/blob/master/elk_library/korea_library_2016.md
 [2] mzzz25님 블로그 : https://m.blog.naver.com/sky930425/221515854405
 [3] gt1000님 블로그 : https://gt1000.tistory.com/entry/elasticsearch-에-logstash를-이용해서-csv-파일-읽어-들이기
 [4] https://blog.naver.com/xomyjoung/221639085235
