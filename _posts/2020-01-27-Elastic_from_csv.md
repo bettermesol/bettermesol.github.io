@@ -148,7 +148,7 @@ https://www.bmc.com/blogs/elasticsearch-load-csv-logstash/
 
 
 
-5. 시각화
+### 5. 시각화
 - Visualize : Create visualization을 눌러서 시각화 자료를 작성한 후, `>`아이콘 눌러서 apply changes
 
 
