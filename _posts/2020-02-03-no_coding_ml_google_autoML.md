@@ -3,8 +3,8 @@ title: "코딩 없는 머신러닝 - Google AutoML"
 excerpt: "Google AutoML, 코딩 없이 머신러닝을 해보자"
 last_modified_at: 2020-02-03T16:20:02-05:00
 categories:
-  - Data
-tags: [data, read_csv, csv, colab]
+  - ML
+tags: [ml, no_coding, google, autoML]
 
 toc : # true
 toc_label : # "toc_label"
