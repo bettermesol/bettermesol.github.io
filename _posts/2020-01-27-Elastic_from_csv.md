@@ -51,8 +51,8 @@ csv파일을 바로 Logstash로 Elasticsearch로 불러들여서, Kibana로 시�
 
 
 ### 3. Elasticsearch에 Index생성
-데이터를 저장하기 전에 elasticsearch에서 index와 document를 생성해야 한다.
-방법 1) cURL 명령을 이용하여 cmd 창에서 속성 등록 및 인덱스 추가 (cURL 설치부터 필요, 참고 : https://ilhee.tistory.com/25)
+데이터를 저장하기 전에 elasticsearch에서 index와 document를 생성해야 한다.  
+방법 1) cURL 명령을 이용하여 cmd 창에서 속성 등록 및 인덱스 추가 (cURL 설치부터 필요, 참고 : https://ilhee.tistory.com/25)  
 방법 2) kibana의 dev tools 메뉴 사용
 - Kibana Dev Tools 실행 : 몽키스패너 아이콘
 - Console에 아래 내용 입력 후 `>` 아이콘으로 send request
