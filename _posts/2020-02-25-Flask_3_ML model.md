@@ -1,6 +1,6 @@
 ---
-title: "Flask와 머신러닝 모델을 이용한 웹서비스_머신러닝 모델 학습"
-excerpt: "웹페이지 구성을 위한 머신러닝 모델 학습"
+title: "Flask와 머신러닝 모델을 이용한 웹서비스_웹페이지로 뿅"
+excerpt: "학습된 모델과 HTML페이지를 연결"
 last_modified_at: 2020-02-24T16:20:02-05:00
 categories:
   - Web
