@@ -21,7 +21,7 @@ The Street view house numbers 데이터셋을 이용하여, 랜덤포레스트 �
 ### 학습용 모델 작성 및 저장
 1. 학습을 위한 데이터 다운로드 
    - http://ufldl.stanford.edu/housenumbers/에서 `test_32x32.mat` 파일 다운로드. 
-   - 73257개의 32x32픽셀 이미지
+   - 26032개의 32x32픽셀 이미지
    - i번쨰 데이터의 구성 : X변수는 이미지를 포함한 4차 행렬로 X(:,:,:,i)로 접근 가능, 이 때 Y(i)는  0~9 사이의 숫자
 
 2. 아래의 코드 실행해서 모델을 학습하고, 추후에 테스트를 위한 이미지를 몇 장 확보해두고, 학습된 모델 저장 (가상환경에서 실행시킬 필요 없음, .ipynb파일을 원한다면 [여기](https://github.com/bettermesol/bettermesol.github.io/blob/master/assets/code/2020-02-24-Flask_2_ML%20model.ipynb))
