@@ -25,23 +25,18 @@ comments: #
    - 파이썬 버전 : python 3.7
 
 1. pyinstaller 패키지 설치
-
    - `cmd`를 열어 아래 명령어 입력
-
      ````
      pip install pyinstaller
      ````
 
 2. 샘플 파이썬 코드 만들기
-
    - 적당한 샘플을 만들다보니 `time` 패키지가 필요하다. `cmd`를 열어 아래 명령어도 입력
-
      ````
      pip install time
      ````
 
    - 아무 텍스트 에디터를 열어 아래 내용을 입력하고 적당한 위치에 `time.py`라는 이름과 확장자로 저장
-
      ````
      import time 
      if __name__ == "__main__" : 
@@ -58,23 +53,19 @@ comments: #
      ````
 
 3. exe로 만들기
-
    - `cmd`를 열어 2의 파이썬 파일이 저장된 위치로 찾아가서 아래 명령어 입력
-
      ````
      pyinstaller time.py
      ````
 
    - 원하는 조건에 따라 옵션을 추가한다면, 아래 명령어 추가 입력
-
      - 부수적인 파일을 모두 하나의 exe 파일 생성 : `--onefile` 혹은 `-F`
      - Dos console 없이 실행 :  `--noconsole`  혹은 `-w`
      - 관련 옵션 : https://stackoverflow.com/questions/19225132/pyinstaller-not-working-on-simple-helloworld-program
-
      ```` 
      pyinstaller --onefile time.py
      ````
 
 4. exe 실행
    - 2에서 정한 폴더 내 dist 폴더 내에 `time.exe`를 실행!
-   - 그럼 아래와 같은 창이 뿅! 떠서 혼자서 10초 세고, 3초 후 뽕하고 사라진다!![/assets/images/2020-03-03-pyinstaller.png)
+   - 그럼 아래와 같은 창이 뿅! 떠서 혼자서 10초 세고, 3초 후 뽕하고 사라진다!![//assets/images/2020-03-03-pyinstaller.png)
