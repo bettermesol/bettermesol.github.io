@@ -1,7 +1,7 @@
 ---
 title: "pyinstaller_파이썬으로 .exe 빌드하기"
 excerpt: "pyinstaller를 이용해서 .py를 .exe로!"
-last_modified_at: 2020-03-03T16:20:02-05:00
+last_modified_at: 2020-03-02T16:20:02-05:00
 categories:
   - app
 tags: [pyinstaller, exe, build, app, desktop app]
@@ -13,9 +13,7 @@ comments: #
 ---
 
 파이썬으로 작성한 코드를 서비스로 만들거나, 혹은 파이썬을 설치하지 않은 사람에게 배포해야 할 상황이 생긴다. 
-
 혹은 내가 게으름뱅이라서 .py 파일을 매번 실행시키기 귀찮거나!
-
 아무튼 pyindtaller를 이용해서 .py를 .exe로 build해본다!
 
 
