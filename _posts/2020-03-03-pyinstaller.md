@@ -68,4 +68,5 @@ comments: #
 
 4. exe 실행
    - 2에서 정한 폴더 내 dist 폴더 내에 `time.exe`를 실행!
-   - 그럼 아래와 같은 창이 뿅! 떠서 혼자서 10초 세고, 3초 후 뽕하고 사라진다!![//assets/images/2020-03-03-pyinstaller.png)
+   - 그럼 아래와 같은 창이 뿅! 떠서 혼자서 10초 세고, 3초 후 뽕하고 사라진다!!
+     ![result](/assets/images/2020-03-03-pyinstaller.png)
