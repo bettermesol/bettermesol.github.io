@@ -13,7 +13,7 @@ comments: #
 ---
 
 flask를 이용하면 파이썬 코드의 결과물을 html로 작성한 웹 환경에서 볼 수 있다.
-이 글을 따라하기 전에 [flask](https://bettermesol.github.io/web/2020/02/23/flask_1_venv/), [pyinstaller](https://bettermesol.github.io/app/2020/03/03/pyinstaller/)가 각각 설치되어 있어야 하므로, 설치 방법은 링크를 참고합시다!
+이 글을 따라하기 전에 [flask](https://bettermesol.github.io/web/2020/02/22/flask_1_venv/), [pyinstaller](https://bettermesol.github.io/app/2020/03/02/pyinstaller/)가 각각 설치되어 있어야 하므로, 설치 방법은 링크를 참고합시다!
 
 
 
