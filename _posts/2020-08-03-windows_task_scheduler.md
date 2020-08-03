@@ -1,5 +1,3 @@
-```
-​```
 ---
 title: "Windows Task Scheduler를 이용한 자동 실행"
 excerpt: "윈도우즈 세상에서 시킬 수 있는 가장 쉬운 자동 실행"
@@ -14,8 +12,6 @@ toc_label : # "toc_label"
 toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
 comments: # 
 ---
-​```
-```
 
 
 
