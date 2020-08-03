@@ -3,7 +3,7 @@ title: "Google Play Store App Review Crawler"
 excerpt: "using BeautifulSoup & google_play_scraper"
 last_modified_at: 2020-07-31T16:20:02-05:00
 categories:
-  - Web
+  - Data
 tags: [Crawling, BeautifulSoup, Selenium]
 
 # table of contents
@@ -12,6 +12,7 @@ toc_label : # "toc_label"
 toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
 comments: # 
 ---
+
 
 
 
