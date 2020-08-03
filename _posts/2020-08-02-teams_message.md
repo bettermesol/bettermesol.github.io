@@ -1,5 +1,3 @@
-```
-​```
 ---
 title: "MS Teams 채널로 메시지 전송"
 excerpt: "마소 세상에서 보낼 수 있는 간단한 알림"
@@ -14,8 +12,7 @@ toc_label : # "toc_label"
 toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
 comments: # 
 ---
-​```
-```
+
 
 
 
