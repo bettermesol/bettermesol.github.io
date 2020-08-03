@@ -1,4 +1,3 @@
-
 ---
 title: "Google Play Store App Review Crawler"
 excerpt: "using BeautifulSoup & google_play_scraper"
