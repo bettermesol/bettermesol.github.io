@@ -1,4 +1,3 @@
-```
 ---
 title: "Flask_GET, POST로 입력 받아 HTML 출력하기 "
 excerpt: "Flask "
@@ -13,7 +12,6 @@ toc_label : # "toc_label"
 toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
 comments: # 
 ---
-```
 
 
 
