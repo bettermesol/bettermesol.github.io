@@ -1,5 +1,3 @@
-```
-​```
 ---
 title: "웹 크롤링의 세 가지 방법"
 excerpt: "패키지 vs BeautifulSoup vs Selenium "
@@ -14,8 +12,6 @@ toc_label : # "toc_label"
 toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
 comments: # 
 ---
-​```
-```
 
 
 
