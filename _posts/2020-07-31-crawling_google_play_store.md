@@ -1,5 +1,4 @@
-```
-​```
+
 ---
 title: "Google Play Store App Review Crawler"
 excerpt: "using BeautifulSoup & google_play_scraper"
@@ -14,8 +13,7 @@ toc_label : # "toc_label"
 toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
 comments: # 
 ---
-​```
-```
+
 
 
 
