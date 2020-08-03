@@ -1,5 +1,3 @@
-```
-​```
 ---
 title: "iOS App Store Reivew Crawler"
 excerpt: "using BeautifulSoup & Selenium"
@@ -14,8 +12,6 @@ toc_label : # "toc_label"
 toc_icon : # "name_of_icon" from https://fontawesome.com/icons?d=gallery&s=solid&m=free
 comments: # 
 ---
-​```
-```
 
 
 
