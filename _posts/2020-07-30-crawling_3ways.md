@@ -3,7 +3,7 @@ title: "웹 크롤링의 세 가지 방법"
 excerpt: "패키지 vs BeautifulSoup vs Selenium "
 last_modified_at: 2020-07-30T16:20:02-05:00
 categories:
-  - Web
+  - Data
 tags: [Crawling, BeautifulSoup, Selenium]
 
 # table of contents
